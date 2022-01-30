@@ -1,4 +1,4 @@
-### Oie devs 👋
+😉Hi! I'm Luis Eduardo!
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
@@ -38,7 +38,7 @@ object **Luis** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**LuisWilke** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
