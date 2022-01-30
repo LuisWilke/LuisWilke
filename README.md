@@ -1,6 +1,6 @@
 😉Hi! I'm Luis Eduardo!
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Web Developer
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
