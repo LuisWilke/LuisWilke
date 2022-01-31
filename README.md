@@ -9,9 +9,9 @@ Web Developer
 ```kotlin
 object **Luis** {
  val name = "Luis Eduardo"
- val acknowledgements = "Desenvolvedor Web"
+ val acknowledgements = "Web Developer"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Skills"
  val languages = listOf("Java", "Python", "JavaScript", "Typescript", "React") 
 
 }
