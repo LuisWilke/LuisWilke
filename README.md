@@ -40,7 +40,6 @@ object **Luis** {
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/luis_wilke
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/luiss_wilke/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
@@ -49,6 +48,5 @@ object **Luis** {
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
