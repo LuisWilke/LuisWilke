@@ -33,7 +33,7 @@ object **Luis** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiswilke&show_icons=true&theme=dracula&line_height=27" alt="**LuisWilke** github stats"/>
+ [![card](https://github-readme-stats.vercel.app/api?username=LuisWilke&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 [website]: https://codedev.ga/
