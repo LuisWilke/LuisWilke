@@ -1,6 +1,6 @@
 😉Hi! I'm Luis Eduardo!
 
-Web Developer
+Full Stack programmer
 
 More about me
 
