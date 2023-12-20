@@ -39,6 +39,4 @@ object **Luis** {
 #### Rede Sociais!
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
