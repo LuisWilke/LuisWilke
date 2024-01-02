@@ -1,39 +1,40 @@
-😉Hi! I'm Luis Eduardo!
+<code>System.out.println("Bem vindo ao meu github!😆")</code>
+<hr>
 
-Full Stack programmer
+<p>💻Desenvolvedor Java</p>
+<p>📚Estudando Java, Kotlin, Microsserviços, AWS e Padrões de projeto</p>
+<p>👨‍💻Estudando Ciencia da computação <a href="https://estacio.br/" target="blank_">Estacio</a></p>
 
-More about me
+<hr>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,postgresql,mongodb)](https://skillicons.dev)
 
-```
-object **Luis** {
- val name = "Luis Eduardo"
- val acknowledgements = "Web Developer"
- 
- val primarySkillset = "Skills"
- val languages = listOf("C#", ".NET", "React", "Javascript") 
+Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+<p>-Java</p> 
+<p>-Kotlin</p> 
+<p>-Spring Boot</p>
+<p>-Spring Cloud</p>
+<p>-Microsservicos</p>
+<p>-Server-Sent Events (SSE)</p>
+<p>-WebSockets</p>
+<p>-Banco de dados (MSSQL e MySQL)</p>
+<p>-Redis</p>
+<p>-Docker</p>
+<p>-Postgresql</p>
+<p>-Kafka</p>
+<p>-AWS Bucket S3</p>
+<p>-AWS Lambda</p>
+<p>-AWS Rekognition</p>
 
-}
-```
+<hr>
 
-## **Languages and Tools:**  
+Sobre os Design Patterns:
+<p>-Strategy</p>
+<p>-Factory</p>
+<p>-Singleton</p>
+<p>-Builder</p>
+<p>-Data Transfer Objects</p>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<hr>
 
-
-[website]: https://luiswilke.github.io/Portifolio/
-[twitter]: https://twitter.com/luis_wilke
-[instagram]: https://www.instagram.com/luiss_wilke/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
+Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
