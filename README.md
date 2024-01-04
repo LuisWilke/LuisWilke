@@ -7,7 +7,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,kafka,aws,redis,mysql,docker,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,aws,redis,mysql,docker,postgresql,mongodb)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 <p>-C#</p> 
