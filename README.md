@@ -1,19 +1,17 @@
-<code>System.out.println("Bem vindo ao meu github!😆")</code>
+<code>Console.WriteLine("Bem vindo ao meu github!😆"</code>
 <hr>
 
-<p>💻Desenvolvedor Java</p>
-<p>📚Estudando Java, Kotlin, Microsserviços, AWS e Padrões de projeto</p>
+<p>💻Desenvolvedor C#</p>
+<p>📚Estudando .C#, .NET, Microsserviços, AWS e Padrões de projeto</p>
 <p>👨‍💻Estudando Ciencia da computação <a href="https://estacio.br/" target="blank_">Estacio</a></p>
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,kafka,aws,redis,mysql,docker,postgresql,mongodb)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
-<p>-Java</p> 
-<p>-Kotlin</p> 
-<p>-Spring Boot</p>
-<p>-Spring Cloud</p>
+<p>-C#</p> 
+<p>-DOTNET</p> 
 <p>-Microsservicos</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
