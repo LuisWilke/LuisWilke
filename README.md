@@ -11,7 +11,7 @@
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 <p>-C#</p> 
-<p>-DOTNET</p> 
+<p>-.NET</p> 
 <p>-Microsservicos</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
