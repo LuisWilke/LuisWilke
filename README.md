@@ -2,7 +2,7 @@
 
 Hi, I'm Luis Eduardo, Full Stack Developer from Brazil. Feel free to check it out. Besides programming, I enjoy music, movies, books, arts, and games!
 
-<img align="right" alt="Code Mario image" src="mario.gif"  width="350px"/>
+<img align="right" alt="Code Mario image" src="mario.gif"  width="340px"/>
 
 ( C# | .NET | ASP.NET | SQL Server | Javascript | HTML | CSS | Typescript | React ) 🚀
 
