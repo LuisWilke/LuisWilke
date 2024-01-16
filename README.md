@@ -2,7 +2,7 @@
 
 Hi, I'm Luis Eduardo, Full Stack Developer from Brazil. Feel free to check it out. Besides programming, I enjoy music, movies, books, arts, and games!
 
-🔭 I’m currently working at HMCservicos <br/>
+🔭 I’m currently working at hmcServiços <br/>
 🌱 I’m currently learning .NET frameworks and Microservices patterns <br/>
 👯 I’m looking to collaborate on an opensource project <br/>
 💬 Ask me about my projects <br/>
