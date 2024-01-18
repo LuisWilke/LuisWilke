@@ -4,7 +4,7 @@ Hi, I'm Luis Eduardo, Full Stack Developer from Brazil. Feel free to check it ou
 
 <img align="right" alt="Code Mario image" src="mario.gif"  width="340px"/>
 
-(Java | SpringBoot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+(C# | .NET | AWS | React JS | Angular | Typescript | Javascript ) 🚀
 
 🔭 I’m currently working at hmcServiços <br/>
 🌱 I’m currently learning .NET frameworks and Microservices patterns <br/>
