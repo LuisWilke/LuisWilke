@@ -4,10 +4,10 @@ Hi, I'm Luis Eduardo, Full Stack Developer from Brazil. Feel free to check it ou
 
 <img align="right" alt="Code Mario image" src="mario.gif"  width="340px"/>
 
-( C# | .NET | ASP.NET | SQL Server | Javascript | HTML | CSS | Typescript | React ) 🚀
+(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 
 🔭 I’m currently working at hmcServiços <br/>
-🌱 I’m currently learning .NET frameworks and Microservices patterns <br/>
+🌱 I’m currently learning JAVA frameworks and Microservices patterns <br/>
 👯 I’m looking to collaborate on an opensource project <br/>
 💬 Ask me about my projects <br/>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LuisWilke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiseduardow/)](https://www.linkedin.com/in/luiseduardow/)
