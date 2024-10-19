@@ -6,7 +6,7 @@ Hi, I'm Luis Eduardo, Backend Developer from Brazil with a focus on Python and i
 
 (Python | Javascript | Django | Flask | FastAPI | Pandas | Streamlit ) 🚀
 
-🔭 I’m currently working at hmcServiços <br/>
+🔭 I’m currently working at Ecocentauro Sistemas<br/>
 🌱 I’m currently learning Python frameworks and API development with FastAPI <br/>
 👯 I’m looking to collaborate on a Python-based opensource project <br/>
 💬 Ask me about my projects <br/>
