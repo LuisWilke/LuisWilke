@@ -4,7 +4,7 @@ Hi, I'm Luis Eduardo, a Java Developer from Brazil. Feel free to check out my wo
 
 <img align="right" alt="Code Mario image" src="mario.gif" width="340px"/>
 
-(Java | Spring | Spring Boot | Hibernate | AWS | Angular | Typescript | Javascript) 🚀
+(Java | Spring | Spring Boot | Hibernate | Angular | Typescript | Javascript) 🚀
 
 🔭 I’m currently working at hmcServiços <br/>
 🌱 I’m currently learning Java frameworks and Microservices patterns <br/>
