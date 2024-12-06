@@ -2,7 +2,7 @@ Hi, I'm Luis Eduardo, a Java Developer from Brazil. Feel free to explore my work
 
 <img align="right" alt="Code Mario image" src="mario.gif" width="340px"/>
 
-(Java | Spring Boot | SQL | Angular | AWS | Python) 🚀
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
 - 🔭 I’m currently working at **Ecocentauro Sistemas**
 - 🌱 I’m currently learning cloud technologies and expanding my knowledge in **AWS**
