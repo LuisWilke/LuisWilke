@@ -1,4 +1,4 @@
-Hi, I'm Luis Eduardo, a Java Developer from Brazil. Feel free to explore my work! Besides programming, I enjoy music, gym, movies, books, arts, and games.
+Hi, I'm Luis Eduardo, a .NET Developer from Brazil. Feel free to explore my work! Besides programming, I enjoy music, gym, movies, books, arts, and games.
 
 <img align="right" alt="Code Mario image" src="mario.gif" width="340px"/>
 
