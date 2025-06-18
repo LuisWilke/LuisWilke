@@ -2,7 +2,7 @@ Hi, I'm Luis Eduardo, a .NET Developer from Brazil. Feel free to explore my work
 
 <img align="right" alt="Code Mario image" src="mario.gif" width="340px"/>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,typescript,py,aws,mysql,docker,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,typescript,angular,react,aws,mysql,docker,postgres,mongodb)](https://skillicons.dev)
 
 - 🔭 I’m currently working at **Ecocentauro Sistemas**
 - 🌱 I’m currently learning cloud technologies and expanding my knowledge in **AWS**
